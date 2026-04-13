@@ -1,4 +1,4 @@
 climb-the-M
 ===========
 
-This repository is for practicing the GitHub Flow.
+Climbing the M is a favorite activity of mine. Something I try to do every time I am able to visit MSLA.
